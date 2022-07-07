@@ -88,7 +88,8 @@ This element includes the [global attributes](/en-US/docs/Web/HTML/Global_attrib
 <!doctype html>
 <html>
   <head>
-    <title>Document title</title>
+    <title>izp.me/#220707475a17795d
+      title</title>
   </head>
 </html>
 ```
